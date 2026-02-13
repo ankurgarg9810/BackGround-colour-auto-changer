@@ -1,6 +1,6 @@
 # Background Color Auto Changer
 
-An interactive JavaScript project where clicking the Start button changes the page background color continuously at fixed intervals, and clicking Stop halts the color changes.
+An interactive JavaScript project where clicking the Start button changes the page background color continuously  and clicking Stop halts the color changes.
 
 ## Features
 - Start and Stop controls
